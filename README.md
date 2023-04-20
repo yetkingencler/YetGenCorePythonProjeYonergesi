@@ -19,6 +19,6 @@ Merhaba Sevgili Jumperlarımız 🙌
 
 🦾 Takım olarak geliştirdiğiniz projeyle birlikte sizden takımınızla birlikte hazırladığınız, projenizi tanıttığınız, zorlandığınız noktalardan ve bu noktalara nasıl çözüm ürettiğinizden bahsettiğiniz **en az fazla 5 dakika** olan bir tanıtım videosu hazırlamanızı bekliyoruz.
 
-🦾 Takım olarak geliştirdiğiniz projeyi **GitHub’a** ve tanıtım videonuzu **YouTube’e** dilerseniz liste dışı, dilerseniz de herkese açık olarak yükledikten sonra, GitHub ve YouTube linklerini [buradaki](https://airtable.com/shr7E07dZPaN9w55f) **“Proje Paylaşma Formu”nu** doldurmanızı rica ediyoruz.
+🦾 Takım olarak geliştirdiğiniz projeyi **GitHub’a** ve tanıtım videonuzu **YouTube’e** dilerseniz liste dışı, dilerseniz de herkese açık olarak yükledikten sonra, GitHub ve YouTube linklerini  **“Proje Paylaşma Formu”nu** doldurmanızı rica ediyoruz.
 
-⏰ Unutma, projenizi tamamlamak ve “Proje Paylaşma Formu”nu doldurmak için **19 Mayıs Cuma 23.59’a kadar** süreniz var! Formu proje takımından sadece bir kişinin doldurması yeterlidir.
+⏰ Unutma, projenizi tamamlamak ve “Proje Paylaşma Formu”nu doldurmak için **13 Mayıs Cumartesi 23.59’a kadar** süreniz var! 
